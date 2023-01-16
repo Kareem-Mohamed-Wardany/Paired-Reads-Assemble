@@ -12,18 +12,18 @@ Output : The program then outputs the assembled sequence to the screen.
 <h1>Explain</h1>
 
 <b>READS</b> 
-<p>GACC|GCGC
-ACCG|CGCC
-CCGA|GCCG
-CGAG|CCGG
-GAGC|CGGA</p>
+<p>GACC|GCGC</p>
+<p>ACCG|CGCC</p>
+<p>CCGA|GCCG</p>
+<p>CGAG|CCGG</p>
+<p>GAGC|CGGA</p>
 
 <b>GRAPH</b> 
-<p>(S)GAC,GCG --> ACC,CGC
-ACC,CGC --> CCG,GCC
-CCG,GCC --> CGA,CGC
-CGA,CCG --> GAG,CGG
-GAG,CGG --> AGC,GGA(E)</p>
+<p>(S)GAC,GCG --> ACC,CGC</p>
+<p>ACC,CGC --> CCG,GCC</p>
+<p>CCG,GCC --> CGA,CGC</p>
+<p>CGA,CCG --> GAG,CGG</p>
+<p>GAG,CGG --> AGC,GGA(E)</p>
 
 
 <b>PATHS</b> 
